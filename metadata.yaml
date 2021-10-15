@@ -1,0 +1,28 @@
+_repo: Arthur_66473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph Eugène
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eug%C3%A8ne_Sue
+    - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Sue
+description: ''
+gutenberg_issued: '2021-10-05'
+identifiers:
+  gutenberg: '66473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Arthur
+url: http://www.gutenberg.org/ebooks/66473
