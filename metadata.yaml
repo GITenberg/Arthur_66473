@@ -1,5 +1,8 @@
 _repo: Arthur_66473
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66473-h/images/arthur_cover.jpg
 creator:
   author:
     agent_name: Sue, Eugène
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eug%C3%A8ne_Sue
     - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66473#Arthur
 gutenberg_issued: '2021-10-05'
 identifiers:
   gutenberg: '66473'
